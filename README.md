@@ -8,6 +8,12 @@
 
 ## 🧭 使用说明
 
+将 `https://github.com` 替换为 `https://gh-og-img.cnliuyuhe.workers.dev`
+
+示例：
+
+`https://github.com/liuyuhe666/gh-og-img` => `https://gh-og-img.cnliuyuhe.workers.dev/liuyuhe666/gh-og-img`
+
 ```diff
 -https://github.com/liuyuhe666/gh-og-img
 +https://gh-og-img.cnliuyuhe.workers.dev/liuyuhe666/gh-og-img
